@@ -1,2 +1,5 @@
 venv
 .DS_STORE
+.vscode
+.envrc
+__pycache__
