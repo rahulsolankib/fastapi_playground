@@ -40,6 +40,7 @@ direnv = "^2020.12.3"
 psycopg = "^3.1.17"
 sqlalchemy-utils = "^0.41.1"
 sqlalchemy = "^2.0.25"
+python-dotenv = "^1.0.1"
 
 
 [build-system]
