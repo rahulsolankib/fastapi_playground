@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=tutorial
+
+appschema 2024-01-31T18:11:27Z rahul_solanki <rahulsolankib@gmail.com> # Add schema for all flipr objects.
+users 2024-01-31T18:18:11Z rahul_solanki <rahulsolankib@gmail.com> # Creates table to track users
