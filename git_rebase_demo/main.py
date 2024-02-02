@@ -1,4 +1,4 @@
 print('Print statement by feature/A branch')
 print('some changes by hotfix')
 print('second commit by feature/A branch')
-print('hotfix 2 rebase example')
+print('hotfix 2 rebase example ')
